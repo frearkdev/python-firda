@@ -1,6 +1,6 @@
-# 🐍 Python Exercises - Firda School 🇳🇱
+# 🐍 Python Exercises - Firda 🏫
 
-Welcome to my **Python exercises repository** for Firda School! 🎓  
+Welcome to my **Python exercises repository** for Firda! 🎓  
 Here you'll find all my exercises, small projects, and experiments from my Python lessons.  
 
 ---
